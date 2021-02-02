@@ -46,5 +46,9 @@ _*ntr*_
 - eee    
 ## coding
 ```
-print("hello phani")
+def fun():
+    print("hello phani")   
 ```
+```
+fun()
+````
