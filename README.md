@@ -51,4 +51,7 @@ def fun():
 ```
 ```
 fun()
-````
+```
+`
+printf("hello
+`
