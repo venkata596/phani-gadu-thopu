@@ -63,3 +63,6 @@ printf("hello")
 [youtube](https://www.youtube.com/)
 
 ![asdfghjkl](https://github.com/venkata596/phani-gadu-thopu.git)
+
+## inserting videos
+[![video](https://img.youtube.com/vi/VSpgaN3wuag/0.jpg)](https://www.youtube.com/watch?v=VSpgaN3wuag)
