@@ -53,5 +53,5 @@ def fun():
 fun()
 ```
 `
-printf("hello
+printf("hello")
 `
